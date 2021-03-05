@@ -14,8 +14,7 @@
   .navbar{
     position: sticky;
     top: 0px;
-   
-    
+ 
   }
   ul {
     float: right;
@@ -110,23 +109,15 @@
     width: 120px;
     padding: 5px 0 5px 0;
   }
-  
-
-
-
-
-
-
-
 .container2{
 display: grid;
 grid-template-columns: auto auto;
     grid-gap: 80px;
     font-size: 20px;
     background-color:aqua;
-padding: 20px;
-
+padding: 20px ;
 }
+
 .container2>div{
 color:white;
 }
